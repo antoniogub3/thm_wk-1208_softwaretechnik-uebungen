@@ -2,7 +2,8 @@
 
 ## Studiengang und Semester
 
-Organisation und IT-Sicherehit 3. Semester
+Organisation und IT-Sicherehit B.Sc 
+3. Semester
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
